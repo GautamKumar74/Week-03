@@ -1,0 +1,4 @@
+Hello, World!
+This is a test file.
+InputStreamReader Example.
+Some UTF-8 characters: é, ü, ñ, 中文, हिंदी.
